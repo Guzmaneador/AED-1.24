@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturacion>
+	<ticket>
+		<producto>
+			<concepto>Pintura</concepto>
+			<precio_unitario>23.2</precio_unitario>
+			<unidades>2</unidades>
+		</producto>
+		<producto>
+			<concepto>Pincel</concepto>
+			<precio_unitario>10.2</precio_unitario>
+			<unidades>4</unidades>
+		</producto>
+		<producto>
+			<concepto>Brocha</concepto>
+			<precio_unitario>10.2</precio_unitario>
+			<unidades>4</unidades>
+		</producto>
+	</ticket>
+	<ticket>
+		<producto>
+			<concepto>Cascos</concepto>
+			<precio_unitario>23.2</precio_unitario>
+			<unidades>2</unidades>
+		</producto>
+		<producto>
+			<concepto>Broca</concepto>
+			<precio_unitario>10.2</precio_unitario>
+			<unidades>4</unidades>
+		</producto>
+	</ticket>
+</facturacion>
